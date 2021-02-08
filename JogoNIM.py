@@ -132,14 +132,14 @@ def main():
 	if tipo_de_jogo == 1:
 		print('''Voce escolheu uma partida isolada!
 			''')
-		partida()  ##tem como resumir?
+		partida()  
 	else:
 		print('''Voce escolheu um campeonato!
 			''')
 		campeonato()
 
 
-main( ) #chama automaticamente no terminal
+main( ) 
 
 
 
